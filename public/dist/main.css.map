@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/client/components/home/src/client/components/home/Home.scss"],"names":[],"mappings":"AAAA;EACI,WAAS,EACZ","file":"main.css","sourcesContent":[".hello-world{\n    color:red;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/client/components/home/src/client/components/home/Home.scss"],"sourceRoot":""}
